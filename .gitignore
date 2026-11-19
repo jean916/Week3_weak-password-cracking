@@ -1,0 +1,12 @@
+
+# Protected documents
+*.pdf
+
+# Password hashes and recovery files
+*.hash
+*.pot
+john.pot
+
+# Temporary files
+*.tmp
+*.bak
